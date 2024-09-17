@@ -18,5 +18,5 @@ I am eager to collaborate on innovative projects and contribute to the developer
 - Expanding my knowledge of PCB design and signal processing.
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://linkedin.com/in/kevinjhuang-ece)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinjhuang-ece)
 - keviinhuang12@gmail.com

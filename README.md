@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**kevinsestate/kevinsestate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I am **[Your Name]**, an Electrical & Computer Engineering student at **CU Boulder** with a focus on **Robotics** and **Embedded Systems**. I’m passionate about solving complex engineering challenges and have hands-on experience with circuit design, hardware-software integration, and motor control systems.
 
-Here are some ideas to get you started:
+![Personal Projects](https://img.shields.io/badge/Lifting%20%7C%20Thrifting%20%7C%20Projects-FF5733?style=for-the-badge&logo=slack&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of engineering, I enjoy **lifting**, **thrifting**, and **working on personal projects**. I love learning new skills and always find time to explore hobbies that complement my technical expertise.
+
+## 🎯 Achievements
+- Currently working on a **Robotic Submarine** for the **Colorado Robosub** project.
+- Building a custom **bidirectional motor control board** using **Raspberry Pi 3 Model B+**.
+- Collaborating on various open-source projects related to **robotics** and **BLDC motor control**.

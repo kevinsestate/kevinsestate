@@ -5,17 +5,10 @@ I am Kevin Huang, an Electrical & Computer Engineering student at CU Boulder wit
 
 I’m deeply interested in open-source projects and robotic systems, consistently exploring ways to improve and innovate with new technologies. Some tools and languages I enjoy working with include Python, C++, Verilog, MATLAB, and OnShape.
 
-Outside of engineering, I enjoy lifting, thrifting, and working on personal projects. I love learning new skills and always find time to explore hobbies that complement my technical expertise.
+Outside of engineering, I enjoy lifting, thrifting, skiiing, and working on personal projects. I love learning new skills and always find time to explore hobbies that complement my technical expertise.
 
 I am eager to collaborate on innovative projects and contribute to the developer community while expanding my knowledge in electronics, control systems, and software development.
 
-## 🎯 Achievements
-- Currently working on a Robotic Submarine for the Colorado Robosub project.
-- Building a custom bidirectional motor control board using a Jetson Nano.
-
-## 🌱 What I’m Learning
-- Diving deeper into FPGA development and digital circuit design.
-- Expanding my knowledge of PCB design and signal processing.
 
 ## 🔗 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinjhuang-ece)

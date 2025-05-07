@@ -1,13 +1,14 @@
 # Hello there! 👋
 
 ## 💻 About Me
-I am Kevin Huang, an Electrical & Computer Engineering student at CU Boulder with a focus on Robotics and Embedded Systems. I’m passionate about using what I learn and have hands-on experience with circuit design, hardware-software integration, and motor control systems.
+I am Kevin Huang, a senior Electrical & Computer Engineering student at CU Boulder.
 
-I’m deeply interested in open-source projects and robotic systems, consistently exploring ways to improve and innovate with new technologies. Some tools and languages I enjoy working with include Python, C++, Verilog, MATLAB, and OnShape.
+**Languages & Tools:**
+C, C++, Python, Verilog, MATLAB, OnShape, Git
 
-Outside of engineering, I enjoy lifting, thrifting, skiiing, and working on personal projects. I love learning new skills and always find time to explore hobbies that complement my technical expertise.
+Outside of engineering, I enjoy lifting, thrifting, skiing, bouldering, and working on personal projects. I love taking on new hobbies that keep me learning.
 
-I am eager to collaborate on innovative projects and contribute to the developer community while expanding my knowledge in electronics, control systems, and software development.
+I look forward to collaborating on meaningful projects, contributing to the developer community, and deepening my knowledge in electronics, control systems, and software.
 
 
 ## 🔗 Connect with Me
